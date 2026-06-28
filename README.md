@@ -1,4 +1,4 @@
-# Smart RFID-Based Attendance Management System using Arduino UNO
+# 📋Smart RFID-Based Attendance Management System using Arduino UNO
 
 ## 📖 Project Description
 
